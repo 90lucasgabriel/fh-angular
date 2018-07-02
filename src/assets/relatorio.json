@@ -1,0 +1,56 @@
+{
+  "relatorio": 
+  [
+    {
+      "pedido": "0000001",
+      "cliente": "Bruce Wayne",
+      "cpf_cnpj": "1111111111",
+      "endereco_entrega": "Rua XV de novembro, 123",
+      "total": 70,
+      "itemList": [
+        {
+          "produto": "ABC123",
+          "descricao": "Furadeira",
+          "quantidade": 1,
+          "unidade": "PC",
+          "preco": 10,
+          "total": 10
+        },
+        {
+          "produto": "XYZ124",
+          "descricao": "Serra",
+          "quantidade": 3,
+          "unidade": "PC",
+          "preco": 20,
+          "total": 60
+        }        
+      ]      
+    },
+    {
+      "pedido": "0000002",
+      "cliente": "Tony Stark",
+      "cpf_cnpj": "222222222",
+      "endereco_entrega": "Rua Mal Deodoro, 1700",
+      "total": 170,
+      "itemList": [
+        {
+          "produto": "ABC125",
+          "descricao": "Bateria",
+          "quantidade": 10,
+          "unidade": "PC",
+          "preco": 10,
+          "total": 100
+        },
+        {
+          "produto": "XYZ126",
+          "descricao": "parafuso",
+          "quantidade": 3,
+          "unidade": "CX",
+          "preco": 20,
+          "total": 60
+        }        
+      ]      
+    }
+
+  ]
+}
