@@ -21,8 +21,6 @@
               "src/favicon.ico"
             ],
             "styles": [
-              "node_modules/material-design-icons/iconfont/material-icons.css",
-              "node_modules/typeface-roboto/index.css",
               "src/styles.css"
             ],
             "scripts": []
